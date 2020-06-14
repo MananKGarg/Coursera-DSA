@@ -1,2 +1,3 @@
 # Coursera-DSA
-Notes and assignments of Coursera DSA course
+
+* [Week 2]()
